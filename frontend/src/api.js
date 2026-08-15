@@ -1,4 +1,4 @@
-const BASE_URL = '/api';
+const BASE_URL = 'https://mahalatak-production.up.railway.app/api';
 
 function getToken() {
   return localStorage.getItem('mahalak_token');
