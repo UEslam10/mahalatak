@@ -72,10 +72,6 @@ export default function Login() {
         <Link to="/register" className="text-primary-600 font-semibold">سجل دلوقتي</Link>
       </p>
 
-      <div className="mt-8 bg-gray-50 rounded-xl p-3 text-xs text-gray-500 text-center">
-        بيانات تجريبية: 01000000001 / 123456 (عميل)<br />
-        01000000002 / 123456 (تاجر)
-      </div>
     </div>
   );
 }
